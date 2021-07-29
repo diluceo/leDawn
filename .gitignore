@@ -1,0 +1,41 @@
+# OS generated files #
+######################
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# Project #
+###################
+node_modules
+dist
+upload
+deploy.log
+.theme-check.yml
+config/shopify.yml
+config/settings_data.json
+assets/scss
+npm-debug.log
+.env
+.env.*
+
+# Logs and databases #
+######################
+*.log
+*.sql
+*.sqlite
+
+# Custom #
+######################
+*.sass-cache*
+.cache/*
+_site
+/.idea
+/.vscode
+secrets.json
+.jekyll-metadata
+.ruby-version
+.scss
