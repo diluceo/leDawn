@@ -27,6 +27,7 @@ npm-debug.log
 *.log
 *.sql
 *.sqlite
+*.map
 
 # Custom #
 ######################
@@ -38,4 +39,4 @@ _site
 secrets.json
 .jekyll-metadata
 .ruby-version
-.scss
+*.scss
